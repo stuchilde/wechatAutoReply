@@ -1,0 +1,6 @@
+.ropeproject/
+README.md
+__pycache__/
+access.log
+config.py
+nohup.out
